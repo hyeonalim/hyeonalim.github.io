@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkhello_world"]=self["webpackChunkhello_world"]||[]).push([[443],{3099:function(e,n,l){l.r(n),l.d(n,{default:function(){return i}});var o=function(){var e=this,n=e._self._c;return n("div",{staticClass:"about"},[n("h1",[e._v("This is an about page")]),n("HyeonaCoder")],1)},t=[],u=l(7169),s={components:{HyeonaCoder:u.Z}},a=s,r=l(1001),c=(0,r.Z)(a,o,t,!1,null,null,null),i=c.exports}}]);
-//# sourceMappingURL=about.c1e17f0c.js.map
